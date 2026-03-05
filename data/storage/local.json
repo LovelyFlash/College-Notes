@@ -19,9 +19,9 @@
   ],
   "local-dialogposition": {
     "dialog-emojis": {
-      "height": 557,
-      "left": 77,
-      "top": 128,
+      "height": 409,
+      "left": 63,
+      "top": 99,
       "width": 368
     }
   },
@@ -35,9 +35,9 @@
   },
   "local-filespaths": [
     {
-      "notebookId": "20260305081958-z0i88ne",
+      "notebookId": "20260305085513-5ad90kn",
       "openPaths": [
-        "/20260305082130-1xjll3c.sy"
+        "/20260305085518-5t7129e.sy"
       ]
     }
   ],
