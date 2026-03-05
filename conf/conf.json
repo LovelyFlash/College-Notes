@@ -2,7 +2,7 @@
   "logLevel": "debug",
   "appearance": {
     "mode": 1,
-    "modeOS": false,
+    "modeOS": true,
     "darkThemes": [
       {
         "name": "midnight",
@@ -295,19 +295,19 @@
                   "children": [
                     {
                       "active": true,
-                      "activeTime": "1772673346678",
+                      "activeTime": "1772673995191",
                       "children": {
                         "action": "cb-get-scroll",
-                        "blockId": "20260305082131-y90h5nu",
+                        "blockId": "20200812220555-lj3enxa",
                         "instance": "Editor",
                         "mode": "wysiwyg",
-                        "notebookId": "20260305081958-z0i88ne",
-                        "rootId": "20260305082131-y90h5nu"
+                        "notebookId": "20210808180117-czj9bvb",
+                        "rootId": "20200812220555-lj3enxa"
                       },
-                      "docIcon": "",
+                      "docIcon": "1f389",
                       "instance": "Tab",
                       "pin": false,
-                      "title": "README"
+                      "title": "请从这里开始"
                     }
                   ],
                   "height": "",
@@ -336,7 +336,7 @@
               "direction": "tb",
               "instance": "Layout",
               "resize": "lr",
-              "size": "3px",
+              "size": "0px",
               "type": "right"
             }
           ],
@@ -495,7 +495,7 @@
       "pin": true
     }
   },
-  "userData": "d716d5d6812229ac440f08261821941a0df0d178d20b619534122587af51846fd3e907ecbec69401e3f09a09cb4c913693da35384368ec0a5d82c4da900e5594bc35e571bd7701ce0e3c991197e9159ba505479c6fad5cbca101f93d57605010327d93751c61a234cdc40ace538f777611b17fa59c73b10107c4b0baca0aca4d6c44c20e0f143fafff35ca9b52944b6cd35f8800c7c0c86c732e75be329cdfcc45ea426e0fddf59c5f018119505c4ffe837682a51855ccb9547f46b59be26fa4d1ae3a92c7f663964c0dc9753a26256f86260a2ed1c25ec15cb2517befd51408fe45dcf94b6fdecf9aad3564356b825673d562a6e6ff7038426f9037362913c823f491d7510d614886b32f244ad0c1b27710f2db7afeada254854f739939dae90b604a3cb47b92b5be6e9cd0909e5b1b3696a933efd58b34d4b030d0c975fbf4b49c7aaa82089ab506254c0fb8b5adeb575594106241e4e33ab9bb80d3ed1fc1c375f807c8984981cd16f87615381883d8f032d61eb71e71c2a334fdfbaae15e5d6d87ecbf782dca38ceff686d6eed2a7c9fcd0d32b3a3f6935d5d1d98235328c36f3a1dd5439a715290ca648fa41b2640adcd46ce0c2c12947d5ff7f7f83d8304da07cf2543bccf11d226914c7717db9b297c2806eefe172a8f0b4a4f0a46ab6b6d57bd85ec8c9083fd853f0780519cdad205d82c6ec947e4b0a4e84525a9961c0c2be52c98779cbcad6132b915abdc75b10d6528b4b65945118b93cfc1c6d46b8a4c9ab7f8e549d7c58b9b9a1869043c1092932dfaa3276c53b569034d5d0ac8ac68d4c39d506d3917816d12460f2eae7bc17d90427f2fd73fb9482857be938a92234a06014184f1ea2dbd7f1ead969e2f67b512818ebda27d326237aed9e5c731296e93f7a8b54b0bd5ca2771a9f2b3856490c0ca16212815da0288dba46a76790e7269c156036419ab9211a3014323c30d787aba9a8a2e199a160860c9dec4c04ce283a4105e6f78a9fbf65686a14304be377f3e97b9c1939ce446ae669de01064861da345afc79834c340b71622cf9768d7ea0d60f728f5afd6461993fd70f12c409af688458e8e9b7baee7c362e18c9525f0528d9b23509861f7ff67becc0abc54b661c25ae5123a5a27d6c4523dcc28eca5123a3071a4907f9ffa4f521630919c7e8249090ac98c67539c65941cf3a0fe60d013bab38abc944fea33a359d58d80dda4d3581435014afe89a699d7cf6ee23216046918ca1da746597e7de0ba4ae4185a5f7222dd6e3c6880b8ca95565dc105e8c1a583e4e7b09b700c94d05de51ea3e047c6ec681951a6c7a7629f2b82a9407584c260c0e1e02a5fd4c5973f7da8661b6f8ce65e835da1dd50ed99e35435caba3e2051eaeb33a177d4a2a238922a5a45be62149af00f3be26f0708b484c02bf76b89e74213dea64dedebc12f7d560ce3390e3c5c0f43311e1cc4ff5bdb3ddabd07b37484ffa911be464cfe1128ea944a5efc59fc23fdcf2c5eda9571bf7736288e435f607018683def884d7899e4d3f743d60c5e9f077c096a2886eccd266767fac728a01784d1b11de47118d792a40ad8b95b02dfb503494b34a1976867ff7debc30b31a3a057c48499d284813634751eb5cc2895b14a2a4c5262d6961825ba54f51cb583ddd3a94934c8300d6667753fdc8cdc92d85c897b755a39ba5f6dd7e5c054c570d201ae9a263da6f3cb4e90f0125575ba4ed709e6506043cb9aa38d3f2a62df56deaaeed748eb7f154052952d7b40aaa68be5f6c41260f389bb7f21a9ce6bd3c5acf43d2532ee50212f21c0b2a38c8a06de86e89726c392f116857ee84ab07897159b62f40747f40da8c11a1329d1c504c073baab09f9994015d18c3f951af6eb07ac8914d8d4cffa856d45cdb21014d9eda08fa5e05c4850f99e01ed3db1bdd4c4c647a6b166efe8a80e5af7c1a9603bc221cc4b199a86c5111d4ac04fc20b59f6e4c836478e20fec8da807f2c5b5fafa12376221ef6c171c39e377a880e90678b7cb58210593075b41e887db75866fb95c50fb1c02ee41c209c4c91cc9d2a4cd26cda0b785e3de11f3dc7150bbc05aad4e7c679d34a9a4fb32b369488829be69d05dd308fc71c29020d0c1204398022da2e6cdeea29985c9b980fc4d6427da3c4aa2005f17f26ba484aa7ae31819746791de781f1e3d4d719b0ee81bb6a60306a40621e8f5b3fcd6c53ad520153a94bd553b19b9e2ed255e1b151bd2cd9c2456e63ebbc50fe67185aae7a1843dba2b7d5dd0dda8cd1fb1792918100f85018b884488c5012ae67b76d82479078d691202b6ec87ad322a91473027e9144332d95c9193ee91738aed697b419524dcf255658859f3a0aa73244f398c58469e394596f9213933bb52355d571fc295f6589144ee1851eaeac1ec8e5b1bdf3584acd8bf4a83e5f01802d909bfa2e43797aab016a16e8ec5a909d3829a5047a566253c285a22009347863b693de233e3e21fbcc300a637aefab690d4e6912b7d5c631f289461139aa706c602e47092ac5ce413135eba3b8ddd01acf5b00231374422c37b16dd5e4d93ca25f834234ccbfb46ed395f317737078b9af551cf70a8621bb7980660b46bcfdbe83b1a31b6d8a0bbfaabd1f0fc221c8fa0a5cc0897c562ec5f1b385b8e45e12f4e5bd0057e42fe5db3d53f7b935363bed54af3841988994bc7eaed2c84b0451c4f7fc2e82df8a6906e6632b95a204e60f2e0446397cf21b4aad3982f05582f68ec2f5b157545121bdc0a512110d3580bbde4c84f18b9e0b5d5f98b288af440d89a94918598823d57407a63f819db38106b494a49f7124ce1bb30bdc7afae5e00d2501de4376e60fea10963a2ae1de86e9dd5eea9475b330f556d13f314c34c5c01542b7f57e9b0e2d83d8b45dfb6c8cabbba3392d8e2531a0b3d2f5f9fceb8bb87d24ecdee401c85213d4eb64604bd4697c40c07e9bf140fae1e9d1502ad1bc5f036149518dc26ed2f113c5cd65be495e3bc630dce974d5d0acabc931a549443959ee3aaedcb04c32b1de4ccd9483fc76231af874b92dfd543d0d24f7f5d203cacb4b928c2801987116ba88db9f000f3748e745fed4bdc814e00eaf9efc793aaec580dd7904e95ad4076e7539225299ed6cfd0c0854e2bb7fd410a260335c4560a755da09a2781c7f3c6cd263b074a9b2c14792073c491b82971f39d75b2c1d59f05b2d146980efa0e49637f178a530b697181ded35b7bcf78758b5a62d51247b5d98d72405b6d10ed3948eb617ea977323bdf178d95c7ece550c24f0d7c06cbcc371b793c5a227393dc1cfa50e9c9ee020333898a865a53e8d2698838a0ff7cc3a6f8acba6346b3a3ab6a8392703",
+  "userData": "",
   "account": {
     "displayTitle": true,
     "displayVIP": true
@@ -507,19 +507,19 @@
   ],
   "accessAuthCode": "",
   "system": {
-    "id": "",
-    "name": "",
-    "kernelVersion": "3.5.9",
-    "os": "windows",
-    "osPlatform": "",
-    "container": "",
+    "id": "jezgk15q2a8k",
+    "name": "localhost",
+    "kernelVersion": "3.5.8",
+    "os": "android",
+    "osPlatform": "HarmonyOS 6.0.2.130",
+    "container": "harmony",
     "isMicrosoftStore": false,
     "isInsider": false,
-    "homeDir": "C:\\Users\\29582",
-    "workspaceDir": "F:\\files\\Notes",
-    "appDir": "F:\\Siyuan\\resources",
-    "confDir": "F:\\files\\Notes\\conf",
-    "dataDir": "F:\\files\\Notes\\data",
+    "homeDir": "/data/storage/el2/base/haps/entry/files/workspaces/home",
+    "workspaceDir": "/data/storage/el2/base/haps/entry/files/workspaces/Notes",
+    "appDir": "/data/storage/el2/base/haps/entry/files/app",
+    "confDir": "/data/storage/el2/base/haps/entry/files/workspaces/Notes/conf",
+    "dataDir": "/data/storage/el2/base/haps/entry/files/workspaces/Notes/data",
     "networkServe": false,
     "networkServeTLS": false,
     "networkProxy": {
@@ -530,7 +530,9 @@
     "downloadInstallPkg": true,
     "autoLaunch2": 0,
     "lockScreenMode": 0,
-    "disabledFeatures": [],
+    "disabledFeatures": [
+      "ai"
+    ],
     "microsoftDefenderExcluded": false
   },
   "keymap": {
@@ -1297,17 +1299,17 @@
     "petalDisabled": false
   },
   "stat": {
-    "treeCount": 0,
-    "cTreeCount": 100,
-    "blockCount": 0,
-    "cBlockCount": 5000,
-    "dataSize": 7198025,
+    "treeCount": 134,
+    "cTreeCount": 500,
+    "blockCount": 10641,
+    "cBlockCount": 20000,
+    "dataSize": 15584585,
     "cDataSize": 104857600,
-    "assetsSize": 6443729,
+    "assetsSize": 9188374,
     "cAssetsSize": 104857600
   },
   "api": {
-    "token": "rpb5fbpr6q3fbuq1"
+    "token": "8tc5hfhe0vy9rytc"
   },
   "repo": {
     "key": null,

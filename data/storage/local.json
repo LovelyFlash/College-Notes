@@ -168,15 +168,6 @@
       "rootId": "20200812220555-lj3enxa",
       "scrollTop": 0,
       "startId": "20251209210725-2e63bop"
-    },
-    "20260305085518-5t7129e": {
-      "endId": "20260305085518-0ynfxmz",
-      "focusEnd": 0,
-      "focusId": "20260305085518-0ynfxmz",
-      "focusStart": 0,
-      "rootId": "20260305085518-5t7129e",
-      "scrollTop": 0,
-      "startId": "20260305085518-0ynfxmz"
     }
   },
   "local-filespaths": [
@@ -192,6 +183,19 @@
     "keys": []
   },
   "local-plugin-docks": {
-    "siyuan-importer": {}
+    "siyuan-importer": {},
+    "siyuan-plugin-copilot": {
+      "siyuan-plugin-copilotai-chat-sidebar": {
+        "icon": "iconCopilot",
+        "index": 1,
+        "position": "RightBottom",
+        "show": false,
+        "size": {
+          "height": 0,
+          "width": 400
+        },
+        "title": "Copilot"
+      }
+    }
   }
 }
