@@ -2,53 +2,7 @@
   "local-closed-tabs": [
     {
       "active": true,
-      "activeTime": "1772669738092",
-      "children": {
-        "action": "cb-get-scroll",
-        "blockId": "20210428213927-rbcfx2y",
-        "instance": "Editor",
-        "mode": "wysiwyg",
-        "notebookId": "20210808180117-czj9bvb",
-        "rootId": "20200813093015-u6bopdt"
-      },
-      "docIcon": "2753",
-      "instance": "Tab",
-      "pin": false,
-      "title": "常见问题"
-    },
-    {
-      "active": true,
-      "activeTime": "1772670129322",
-      "children": {
-        "action": "cb-get-scroll",
-        "blockId": "20260305082130-no2fy1u",
-        "instance": "Editor",
-        "mode": "wysiwyg",
-        "notebookId": "20260305081958-z0i88ne",
-        "rootId": "20260305082130-no2fy1u"
-      },
-      "docIcon": "",
-      "instance": "Tab",
-      "pin": false,
-      "title": "bsidian"
-    },
-    {
-      "activeTime": "1772670001261",
-      "children": {
-        "action": "cb-get-scroll",
-        "blockId": "20260305082000-7icfpby",
-        "instance": "Editor",
-        "mode": "wysiwyg",
-        "notebookId": "20260305081958-z0i88ne",
-        "rootId": "20260305082000-7icfpby"
-      },
-      "docIcon": "",
-      "instance": "Tab",
-      "pin": false,
-      "title": "未命名"
-    },
-    {
-      "activeTime": "1772669553321",
+      "activeTime": "1772672022385",
       "children": {
         "action": "cb-get-scroll",
         "blockId": "20200812220555-lj3enxa",
@@ -61,51 +15,6 @@
       "instance": "Tab",
       "pin": false,
       "title": "请从这里开始"
-    },
-    {
-      "activeTime": "1772669742777",
-      "children": {
-        "action": "cb-get-scroll",
-        "blockId": "20200813093015-u6bopdt",
-        "instance": "Editor",
-        "mode": "wysiwyg",
-        "notebookId": "20210808180117-czj9bvb",
-        "rootId": "20200813093015-u6bopdt"
-      },
-      "docIcon": "2753",
-      "instance": "Tab",
-      "pin": false,
-      "title": "常见问题"
-    },
-    {
-      "activeTime": "1772669741608",
-      "children": {
-        "action": "cb-get-scroll",
-        "blockId": "20230106101434-e6g4av3",
-        "instance": "Editor",
-        "mode": "wysiwyg",
-        "notebookId": "20210808180117-czj9bvb",
-        "rootId": "20230106101434-e6g4av3"
-      },
-      "docIcon": "",
-      "instance": "Tab",
-      "pin": false,
-      "title": "工作空间"
-    },
-    {
-      "activeTime": "1772669664747",
-      "children": {
-        "action": "cb-get-scroll",
-        "blockId": "20200813125307-pxsjela",
-        "instance": "Editor",
-        "mode": "wysiwyg",
-        "notebookId": "20210808180117-czj9bvb",
-        "rootId": "20200813125307-pxsjela"
-      },
-      "docIcon": "",
-      "instance": "Tab",
-      "pin": false,
-      "title": "导入和导出"
     }
   ],
   "local-dialogposition": {
@@ -119,48 +28,9 @@
   "local-fileposition": {
     "20200812220555-lj3enxa": {
       "endId": "20240508001403-j8ceveg",
-      "focusEnd": 3,
-      "focusId": "20240507235944-bx45kar",
-      "focusStart": 3,
       "rootId": "20200812220555-lj3enxa",
-      "scrollTop": 800,
+      "scrollTop": 0,
       "startId": "20251209210725-2e63bop"
-    },
-    "20200813093015-u6bopdt": {
-      "endId": "20230415111923-37gvzqk",
-      "focusEnd": 0,
-      "focusId": "20210428213311-2hv9zwx",
-      "focusStart": 0,
-      "rootId": "20200813093015-u6bopdt",
-      "scrollTop": 172,
-      "startId": "20210428213311-2hv9zwx"
-    },
-    "20200813125307-pxsjela": {
-      "endId": "20220317224209-iw0imsf",
-      "focusEnd": 0,
-      "focusId": "20220511185359-26rtw7w",
-      "focusStart": 0,
-      "rootId": "20200813125307-pxsjela",
-      "scrollTop": 0,
-      "startId": "20201229120428-dgzkno8"
-    },
-    "20230106101434-e6g4av3": {
-      "endId": "20230106103650-61q8v8i",
-      "focusEnd": 23,
-      "focusId": "20230106103744-93cbakm",
-      "focusStart": 23,
-      "rootId": "20230106101434-e6g4av3",
-      "scrollTop": 0,
-      "startId": "20230106101434-otjrwff"
-    },
-    "20260305082130-1xjll3c": {
-      "endId": "20260305082130-bqngovg",
-      "focusEnd": 0,
-      "focusId": "20260305082130-bqngovg",
-      "focusStart": 0,
-      "rootId": "20260305082130-1xjll3c",
-      "scrollTop": 0,
-      "startId": "20260305082130-bqngovg"
     }
   },
   "local-filespaths": [
