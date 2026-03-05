@@ -1,0 +1,9 @@
+{
+    "code": 404,
+    "msg": "file does not exist",
+    "data": null,
+    "buttonSavor-dark": "0",
+    "buttonvinegar": "1",
+    "buttonocean": "0",
+    "buttonmountain": "0"
+}
